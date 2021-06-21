@@ -1,0 +1,3 @@
+#!/bin/sh  
+nohup node ../app-dev.js &
+echo application is starting...
